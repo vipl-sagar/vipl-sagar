@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Sagar @vipl-sagar
 - 👀 I’m interested in New Tech
 - 🌱 I’m currently learning Advance Python
-- 💞️ I’m looking to collaborate on Flutter/Dart
+- 💞️ I’m looking to collaborate on Anything
 - 📫 How to reach me sagar@vasundharasoftware.com
 
 <!---
