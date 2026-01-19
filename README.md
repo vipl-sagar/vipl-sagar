@@ -1,10 +1,26 @@
-- 👋 Hi, I’m Sagar @vipl-sagar
-- 👀 I’m interested in New Tech
-- 🌱 I’m currently learning Advance Python
-- 💞️ I’m looking to collaborate on Anything
-- 📫 How to reach me sagar@vasundharasoftware.com
+## 👋 Hi, I'm Sagar (@vipl-sagar)
 
-<!---
-vipl-sagar/vipl-sagar is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+🚀 A passionate developer who loves building scalable systems and exploring cutting-edge technologies.
+
+### 👀 Interests  
+- New & emerging technologies  
+- Backend systems and architecture  
+- Scalable and high-performance applications  
+
+### 🌱 Currently Learning  
+- Advanced System Design  
+- Scalable backend architectures  
+- Performance optimization  
+
+### 💞️ Open to Collaborate On  
+- Interesting tech projects  
+- System design discussions  
+- Open-source contributions  
+
+### 📫 Reach Me  
+- 📧 Email: **sagar@vasundharasoftware.com**  
+- 🌐 Portfolio: **[https://www.sagarc.dev](https://www.sagarc.dev)**  
+
+---
+
+⭐️ Feel free to check out my repositories and connect
